@@ -4,6 +4,8 @@ Project Oware for the Programming course @ FEUP - 2019/2020
 
 The goal of this project was to develop an Oware command line game in C/C++.
 
+**Grade:** 17.4
+
 ## Oware
 
 Todos os objetivos foram atingidos.
